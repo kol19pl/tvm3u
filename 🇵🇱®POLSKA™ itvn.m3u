@@ -1,0 +1,591 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png",TVP
+http://itvn.io:36811/141/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png",TVP 1
+http://itvn.io:36811/144/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png",TVP 2
+http://itvn.io:36811/143/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png",TV Republika
+http://itvn.io:36811/157/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png",13 Ulica
+http://itvn.io:36811/325/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/13.TV.png",13 TV
+http://itvn.io:36811/6016/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png",4FUN DANCE
+http://itvn.io:36811/324/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://epg.ovh/logo/4FUN+KIDS.png",4FUN KIDS
+http://itvn.io:36811/323/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/2x2.png",2x2
+http://itvn.io:36811/2x2/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/4Fun.png",4FUN TV
+http://itvn.io:36811/322/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Antena.png",Antena
+http://itvn.io:36811/1316/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png",AMC
+http://itvn.io:36811/318/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png",AXN
+http://itvn.io:36811/313/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png",AXN Black
+http://itvn.io:36811/314/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png",AXN Spin
+http://itvn.io:36811/312/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png",AXN White
+http://itvn.io:36811/311/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png",Adventure
+http://itvn.io:36811/320/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Active+Family.png",Active Family
+http://itvn.io:36811/321/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png",Ale Kino+
+http://itvn.io:36811/319/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png",Animal Planet
+http://itvn.io:36811/317/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/Home+TV.png",Home TV
+http://itvn.io:36811/8080/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png",BBC Brit
+http://itvn.io:36811/309/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png",BBC Earth
+http://itvn.io:36811/307/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png",BBC First
+http://itvn.io:36811/306/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png",BBC Lifestyle
+http://itvn.io:36811/305/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png",BBC CBeebies
+http://itvn.io:36811/308/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png",Baby TV
+http://itvn.io:36811/310/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/CARTOONITO.png",Cartoonito
+http://itvn.io:36811/303/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/Biznes+24.png",Biznes 24
+http://itvn.io:36811/2020/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/Canal%2b+Dokument.png",Canal+ Dokument
+http://itvn.io:36811/301/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png",Canal+ Family
+http://itvn.io:36811/300/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png",Canal+ Film
+http://itvn.io:36811/296/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Canal%2b+Premium.png",CANAL+ Premium
+http://itvn.io:36811/295/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png",Canal+ Now
+http://itvn.io:36811/299/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png",Canal+ Seriale
+http://itvn.io:36811/294/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png",Canal+ Sport
+http://itvn.io:36811/297/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png",Canal+ Sport 2
+http://itvn.io:36811/298/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3
+http://itvn.io:36811/340/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4
+http://itvn.io:36811/341/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5
+http://itvn.io:36811/215/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png",Canal+ 1
+http://itvn.io:36811/302/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png",CBS Europa
+http://itvn.io:36811/291/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png",CBS Reality
+http://itvn.io:36811/290/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Comedy+Central+Extra.png",Comedy Central Extra
+http://itvn.io:36811/289/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png",Cartoon Network
+http://itvn.io:36811/293/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Bollywood+HD.png",Bollywood
+http://itvn.io:36811/Bollywood/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/FILMAX.png",FilMax
+http://itvn.io:36811/filmaxhd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Red+Top+TV.png",Red Top TV
+http://itvn.io:36811/redtop/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png",Cinemax
+http://itvn.io:36811/287/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png",Cinemax 2
+http://itvn.io:36811/288/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png",Comedy Central
+http://itvn.io:36811/286/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png",CI Polsat
+http://itvn.io:36811/285/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png",DTX
+http://itvn.io:36811/274/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="https://epg.ovh/logo/DOCUBOX.png",DocuBox
+http://itvn.io:36811/DocuBox.pl/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png",Da Vinci
+http://itvn.io:36811/284/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png",Disco Polo Music
+http://itvn.io:36811/283/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png",Discovery Channel
+http://itvn.io:36811/282/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png",Discovery Historia
+http://itvn.io:36811/281/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png",Discovery Life
+http://itvn.io:36811/280/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png",Discovery Science
+http://itvn.io:36811/279/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png",Disney Channel
+http://itvn.io:36811/278/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney+Junior.png",Disney Junior
+http://itvn.io:36811/277/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png",Disney XD
+http://itvn.io:36811/276/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/Duck+TV.png",Duck TV
+http://itvn.io:36811/duck/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/TeenNick.png",TeenNick
+http://itvn.io:36811/325jun/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Canal%2b+Domo.png",Canal+ Domo
+http://itvn.io:36811/275/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Dla+Ciebie+TV.png",Dla Ciebie TV
+http://itvn.io:36811/liga51/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png",E! Entertainment
+http://itvn.io:36811/273/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="http://epg.ovh/logo/Eleven+Sports+4K.png",Eleven Sports 1 4K
+http://itvn.io:36811/325es4k/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1
+http://itvn.io:36811/271/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png",Eleven Sports 2
+http://itvn.io:36811/270/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png",Eleven Sports 3
+http://itvn.io:36811/269/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png",Eleven Sports 4
+http://itvn.io:36811/272/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Xtreme+TV.png",Xtremetv
+http://itvn.io:36811/xtreamtv/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png",Epic Drama
+http://itvn.io:36811/268/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png",Eska TV
+http://itvn.io:36811/267/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png",Eska TV Extra
+http://itvn.io:36811/265/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Eska+Rock+TV.png",Eska Rock TV
+http://itvn.io:36811/266/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png",Eurosport 1
+http://itvn.io:36811/264/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
+http://itvn.io:36811/263/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png",Extreme Sports
+http://itvn.io:36811/262/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png",SportKlub
+http://itvn.io:36811/175/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png",FightKlub
+http://itvn.io:36811/260/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
+http://itvn.io:36811/261/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Novelas%2b1.png",Novelas+1
+http://itvn.io:36811/Dizi/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png",Filmbox Family
+http://itvn.io:36811/256/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png",Filmbox Action
+http://itvn.io:36811/259/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png",Filmbox Arthouse
+http://itvn.io:36811/258/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png",Filmbox Extra
+http://itvn.io:36811/257/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png",Filmbox Premium
+http://itvn.io:36811/255/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Fokus%20TV.png",Fokus TV
+http://itvn.io:36811/254/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png",Food Network
+http://itvn.io:36811/253/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/FX+Comedy.png",FX Comedy
+http://itvn.io:36811/250/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/FX.png",FX
+http://itvn.io:36811/249/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png",Golf Channel
+http://itvn.io:36811/248/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png",H2
+http://itvn.io:36811/247/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png",HBO
+http://itvn.io:36811/243/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png",HBO 2
+http://itvn.io:36811/246/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png",HBO 3
+http://itvn.io:36811/245/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png",HGTV
+http://itvn.io:36811/241/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png",History
+http://itvn.io:36811/240/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png",ID
+http://itvn.io:36811/239/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/Moconomy.png",Moconomy
+http://itvn.io:36811/mc10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png",Kino Polska Muzyka
+http://itvn.io:36811/237/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png",Kino Polska
+http://itvn.io:36811/238/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png",Kino TV
+http://itvn.io:36811/236/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Canal%2b+Kuchnia.png",Canal+ Kuchnia
+http://itvn.io:36811/235/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Sportowa.TV.png",Sportowa.TV
+http://itvn.io:36811/Sportowa.TV/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png",Motowizja
+http://itvn.io:36811/230/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://epg.ovh/logo/MixTape+HD.png",MixTape
+http://itvn.io:36811/MixTapeHD/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://epg.ovh/logo/Deluxe+Music+HD.png",Deluxe Music
+http://itvn.io:36811/170/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/DeeJay+HD.png",DeeJay
+http://itvn.io:36811/325jun1/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png",MTV Live
+http://itvn.io:36811/229/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MTV+00S.png",MTV 00s
+http://itvn.io:36811/228/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MTV+Rocks.png",MTV 90s
+http://itvn.io:36811/325mtv/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MTV+80S.png",MTV 80s
+http://itvn.io:36811/123/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://epg.ovh/logo/MTV+Hits.png",MTV Hits
+http://itvn.io:36811/mtvhits/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://epg.ovh/logo/MTV+Club.png",MTV Club
+http://itvn.io:36811/MTVcub/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://epg.ovh/logo/360+TUNEBOX.png",360 TUNEBOX
+http://itvn.io:36811/MTVEurope/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MTV+Polska.png",MTV Polska
+http://itvn.io:36811/227/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/fast-n-funbox-hd.png",Fast&Fun Box
+http://itvn.io:36811/funbox4k/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png",VOX Music TV
+http://itvn.io:36811/123v/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png",Metro
+http://itvn.io:36811/232/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png",MiniMini+
+http://itvn.io:36811/231/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/TVC.png",TVC
+http://itvn.io:36811/214/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png",Nat Geo People
+http://itvn.io:36811/225/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png",Nat Geo Wild
+http://itvn.io:36811/223/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png",National Geographic
+http://itvn.io:36811/221/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/Junior+Music.png",Junior Music
+http://itvn.io:36811/juniormusic/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png",Nick Jr
+http://itvn.io:36811/220/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png",Nicktoons
+http://itvn.io:36811/218/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png",Nickelodeon
+http://itvn.io:36811/219/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/NICKMUSIC.png",NickMusic
+http://itvn.io:36811/6046/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png",Nuta TV
+http://itvn.io:36811/213/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="https://new.plusx.tv/logo100/Nuta_Gold.png",Nuta Gold
+http://itvn.io:36811/nutagoldhd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png",Nowa TV
+http://itvn.io:36811/216/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Novelas%2b.png",Novelas+
+http://itvn.io:36811/2022/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png",Paramount Channel
+http://itvn.io:36811/212/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png",Planete+
+http://itvn.io:36811/211/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png",Polo TV
+http://itvn.io:36811/210/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Rodzina.png",Polsat Rodzina
+http://itvn.io:36811/197/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Games.png",Polsat Games
+http://itvn.io:36811/204/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/Gametoon+HD.png",Gametoon
+http://itvn.io:36811/gametoon/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/GINX+ESPORTS+TV.png",Ginx Esports TV
+http://itvn.io:36811/esport1/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/Polsat+1.png",Polsat 1
+http://itvn.io:36811/13tv1/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Polsat+2.png",Polsat 2
+http://itvn.io:36811/208/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Caf%c3%a9.png",Polsat Cafe
+http://itvn.io:36811/207/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/Polsat+Doku.png",Polsat Doku
+http://itvn.io:36811/206/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Polsat+Film.png",Polsat Film
+http://itvn.io:36811/205/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Polsat.png",Polsat
+http://itvn.io:36811/203/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png",JimJam Polsat
+http://itvn.io:36811/202/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png",Polsat Music
+http://itvn.io:36811/201/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/News24.png",News 24
+http://itvn.io:36811/news24hd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/TV+echo+24.png",Echo 24
+http://itvn.io:36811/etho24/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/Polsat+News.png",Polsat News
+http://itvn.io:36811/199/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/POLSAT+NEWS+2.png",Polsat News 2
+http://itvn.io:36811/200/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Play.png",Polsat Play
+http://itvn.io:36811/198/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Polsat+Seriale.png",Polsat Seriale
+http://itvn.io:36811/196/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Extra.png",Polsat Sport Extra
+http://itvn.io:36811/195/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight
+http://itvn.io:36811/194/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport
+http://itvn.io:36811/193/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News
+http://itvn.io:36811/192/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1 50fps
+http://itvn.io:36811/191/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1
+http://itvn.io:36811/301fps/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2 50fps
+http://itvn.io:36811/190/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2
+http://itvn.io:36811/302fps/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3
+http://itvn.io:36811/189/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4
+http://itvn.io:36811/188/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5
+http://itvn.io:36811/187/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6
+http://itvn.io:36811/186/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png",Polsat Viasat History
+http://itvn.io:36811/184/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png",Polsat Viasat Explore
+http://itvn.io:36811/185/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png",Polsat Viasat Nature
+http://itvn.io:36811/183/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png",Power TV
+http://itvn.io:36811/182/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Polonia+1.png",Polonia 1
+http://itvn.io:36811/209/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/Puls%202.png",Puls 2
+http://itvn.io:36811/180/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Red+Carpet+TV.png",Red Carpet TV
+http://itvn.io:36811/179/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png",Romance TV
+http://itvn.io:36811/178/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png",SciFi
+http://itvn.io:36811/177/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png",Stars TV
+http://itvn.io:36811/174/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png",Stopklatka TV
+http://itvn.io:36811/173/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png",Sundance TV
+http://itvn.io:36811/172/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Super+Polsat.png",Super Polsat
+http://itvn.io:36811/171/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png",StudioMed TV
+http://itvn.io:36811/342/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png",Teletoon+
+http://itvn.io:36811/168/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png",TLC
+http://itvn.io:36811/167/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/Tele+5.png",Tele 5
+http://itvn.io:36811/169/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Warner+TV.png",WB
+http://itvn.io:36811/166/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png",TVN Fabula
+http://itvn.io:36811/150/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/BjgTjme.png",BigTime
+http://itvn.io:36811/TRTInternational/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Rakuten+TV.png",Rakuten TV
+http://itvn.io:36811/127/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Grjngo+Westerny.png",Grjngo Westerny
+http://itvn.io:36811/126/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/Trace+Urban.png",Trace Urban
+http://itvn.io:36811/tra10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MUSIC+BOX.png",Music Box Polska
+http://itvn.io:36811/165/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png",TTV
+http://itvn.io:36811/162/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Outdoor+TV.png",Outdoor TV
+http://itvn.io:36811/159/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png",TV Puls
+http://itvn.io:36811/158/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/Polsat+News+Polityka.png",Polsat News Polityka
+http://itvn.io:36811/tvpworldhd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/TV+4.png",TV 4
+http://itvn.io:36811/161/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/TV+6.png",TV 6
+http://itvn.io:36811/160/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/TVN+24.png",TVN 24
+http://itvn.io:36811/153/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png",TVN 24 BiS
+http://itvn.io:36811/154/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png",TVN 7
+http://itvn.io:36811/152/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png",TVN
+http://itvn.io:36811/149/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/iTVN.png",iTVN
+http://itvn.io:36811/abc2/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png",TVP Kobieta
+http://itvn.io:36811/TVPKobieta/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/iTVN+extra.png",iTVN Extra
+http://itvn.io:36811/tvnextra/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png",TVN Style
+http://itvn.io:36811/147/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Kabaret+TV.png",Kabaret TV
+http://itvn.io:36811/kab10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Pilot+w+Domu.png",Pilot w Domu
+http://itvn.io:36811/dom10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png",TVN Turbo
+http://itvn.io:36811/145/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Warszawa
+http://itvn.io:36811/142/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://epg.ovh/logo/TVP+World.png",TVP World
+http://itvn.io:36811/125/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Białystok
+http://itvn.io:36811/tvpbialystok/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Bydgoszcz
+http://itvn.io:36811/tvpbydgoszcz/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Gdańsk
+http://itvn.io:36811/tvpgdansk/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Gorzów Wielkopolski
+http://itvn.io:36811/tvpgorzow/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Katowice
+http://itvn.io:36811/tvpkatowice/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Kielce
+http://itvn.io:36811/tvpkielce/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Kraków
+http://itvn.io:36811/tvpkrakow/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Lublin
+http://itvn.io:36811/tvplublin/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Łódź
+http://itvn.io:36811/tvplodz/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Olsztyn
+http://itvn.io:36811/tvpolsztyn/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Opole
+http://itvn.io:36811/tvpopole/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Poznań
+http://itvn.io:36811/tvppoznan/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Rzeszów
+http://itvn.io:36811/tvprzeszow/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Szczecin
+http://itvn.io:36811/tvpszczecin/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Wrocław
+http://itvn.io:36811/tvpwroclaw/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55090765.png",TVN w Domu
+http://itvn.io:36811/tvn10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55089488.png",TVN Moto
+http://itvn.io:36811/tvnm10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55089347.png",TVN Kultowe Seriale
+http://itvn.io:36811/tvns10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55090792.png",TVN Życie Jak w Bajce
+http://itvn.io:36811/tvnb10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Kryminalnie+Online.png",TVN Kryminalnie
+http://itvn.io:36811/fastkryminalnie/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Momenty+Prawdy+Online.png",TVN Momenty Prawdy
+http://itvn.io:36811/fastmomentyprawdy/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Prawo+i+%c5%bbycie+Online.png",TVN Prawo i Życie
+http://itvn.io:36811/fastprawoizycie/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Rajska+Mi%c5%82o%c5%9b%c4%87+Online.png",TVN Rajska Miłość
+http://itvn.io:36811/fastrajskamilosc/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Rewolucje+w+Kuchni+Online.png",TVN Rewolucje w Kuchni
+http://itvn.io:36811/fastrewolucjewkuchni/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Seriale+o+Kobietach+Online.png",TVN Seriale o Kobietach
+http://itvn.io:36811/fastserialeokobietach/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Szko%c5%82a+%c5%bbycia+Online.png",TVN Szkoła Życia
+http://itvn.io:36811/fastszkolazycia/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Szpitalne+Historie+Online.png",TVN Szpitalne Historie
+http://itvn.io:36811/fastszpitalnehistorie/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Talk+Show+Online.png",TVN Talk Show
+http://itvn.io:36811/fasttalkshow/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Telenowele+Online.png",TVN Telenowele
+http://itvn.io:36811/fasttelenowele/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Usterka+Online.png",TVN Usterka
+http://itvn.io:36811/fastusterka/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png",TVP Dokument
+http://itvn.io:36811/1901/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png",TVP ABC
+http://itvn.io:36811/151/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/TVP+ABC+2.png",TVP ABC 2
+http://itvn.io:36811/tvpabc25/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png",TVP Alfa
+http://itvn.io:36811/tvpalfa25/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dla dzieci" tvg-logo="https://epg.ovh/logo/TOP+KIDS.png",Top Kids
+http://itvn.io:36811/TopKidsJr/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png",TVP Historia
+http://itvn.io:36811/140/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TVP+Historia+2.png",TVP Historia2
+http://itvn.io:36811/history2/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png",TVP Info
+http://itvn.io:36811/139/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png",TVP Kultura
+http://itvn.io:36811/138/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TVP+Kultura+2.png",TVP Kultura 2
+http://itvn.io:36811/tvpkul25/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Polonia.png",TVP Polonia
+http://itvn.io:36811/137/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png",TVP Rozrywka
+http://itvn.io:36811/136/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="https://epg.ovh/logo/TVP+Nauka.png",TVP Nauka
+http://itvn.io:36811/tvpnauka25/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png",TVP Seriale
+http://itvn.io:36811/135/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TV+TORUN.png",Toruń TV
+http://itvn.io:36811/tvporld/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/TBN+Polska+HD.png",TBN Polska
+http://itvn.io:36811/100g/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/TWOJA+TV.png",Twoja.TV
+http://itvn.io:36811/101g/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/TV+Regio.png",TV Regio
+http://itvn.io:36811/102g/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://epg.ovh/logo/TVT.png",TVT
+http://itvn.io:36811/tvt/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://epg.ovh/logo/TVP+Wilno.png",TVP Wilno
+http://itvn.io:36811/2021/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png",TVP Sport
+http://itvn.io:36811/134/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/852.png",FAN Klub
+http://itvn.io:36811/Heritage/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/CANAL_Live.png",Canal+ Live 1
+http://itvn.io:36811/6036/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/CANAL_Live.png",Canal+ Live 2
+http://itvn.io:36811/6037/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/CANAL_Live.png",Canal+ Live 3
+http://itvn.io:36811/6038/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/CANAL_Live.png",Canal+ Live 4
+http://itvn.io:36811/6039/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/CANAL_Live.png",Canal+ Live 5
+http://itvn.io:36811/liga50/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/tv_trwam.png?itok=8V3f5AsH",TV Trwam
+http://itvn.io:36811/338/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://epg.ovh/logo/MEZZO+LIVE.png",Mezzo Live
+http://itvn.io:36811/337/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/TVS.png",TVS
+http://itvn.io:36811/132/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png",Travel Channel
+http://itvn.io:36811/163/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/WP.png",WP
+http://itvn.io:36811/121/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/wPolsce.pl.png",wPolsce.pl
+http://itvn.io:36811/120/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png",Wydarzenia 24
+http://itvn.io:36811/10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/wtk.png",WTK
+http://itvn.io:36811/wtk10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/ProArt.png",Pro Art
+http://itvn.io:36811/pat10/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/WATER+PLANET.png",Water Planet
+http://itvn.io:36811/122/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="Popularne" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png",Zoom TV
+http://itvn.io:36811/118/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png",CANAL+ 4K Ultra
+http://itvn.io:36811/Filmax/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Love+Nature+4K.png",Love Nature 4K
+http://itvn.io:36811/LoveNature/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="http://logo.plusx.tv/logo/50105-3.png",Vsport UHD
+http://itvn.io:36811/nowsport/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Museum+4K+PL.png",Museum 4K
+http://itvn.io:36811/Museum/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/MyZen+4K.png",MyZen 4K
+http://itvn.io:36811/myZen/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/InsightUHD.eu.png",Insight UHD
+http://itvn.io:36811/InsightUHD11/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Travelxp+4K.png",Travelxp 4K
+http://itvn.io:36811/Travelxp/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/FILMAX.png",FilMax 4k
+http://itvn.io:36811/filmax4k/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="http://logo.plusx.tv/logo/FunBoxUHD-logo.png",FunBox UHD
+http://itvn.io:36811/funboxuhd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Ultra+TV.png",Ultra TV 4k
+http://itvn.io:36811/ultrahd/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/NASA+UHD.png",Nasa 4K
+http://itvn.io:36811/NASA/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="http://logo.plusx.tv/luxetv.png",LUXETV
+http://itvn.io:36811/316/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/Fashion+TV+HD%20.png",FashionTV 4K
+http://itvn.io:36811/FashionTV4K/mono.m3u8?token=f3a3893e96eefb1a9f2222
+#EXTINF:-1 group-title="4k" tvg-logo="http://epg.ovh/logo/Quadro+4K.png",Quadro 4K
+http://itvn.io:36811/C4K360/mono.m3u8?token=f3a3893e96eefb1a9f2222

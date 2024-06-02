@@ -1,0 +1,839 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP.png",TVP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3353
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP1.png",TVP 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3352
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP2.png",TVP 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3351
+#EXTINF:-1  tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVREPUBLIKA.png",TV REPUBLIKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3161
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP3.png",TVP 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3350
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPSERIALE.png",TVP SERIALE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3302
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TV4.png",TV 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3349
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPROZRYWKA.png",TVP ROZRYWKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3253
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPKULTURA.png",TVP KULTURA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3295
+#EXTINF:-1 group-title="Ogólne"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPKOBIETA.png",TVP Kobieta
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574445
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TV6.png",TV6
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3347
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TTV.png",TTV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3339
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/iTVN.png",iTVN
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/429574
+#EXTINF:-1 group-title="Ogólne"tvg-logo="http://103.161.34.240:81/logos/POLSKA/iTVNEXTRA.png",iTVN Extra
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574446
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSAT.png",POLSAT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3345
+#EXTINF:-1 group-title="Ogólne"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSAT1.png",POLSAT 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574447
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSAT2.png",POLSAT 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3344
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATFILM.png",POLSAT FILM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3230
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSERIALE.png",POLSAT SERIALE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3300
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/POLSATPLAY.png",POLSAT PLAY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3244
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/POLSATCAFE.png",POLSAT CAFE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3245
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATRODZINA.png",POLSAT RODZINA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3336
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUPERPOLSAT.png",SUPER POLSAT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3343
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/antenasd.png",ANTENA SD
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500998
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN.png",TVN
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3342
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN7.png",TVN 7
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3341
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVNFABULA.png",TVN FABULA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3293
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVNTURBO.png",TVN TURBO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3292
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVNSTYLE.png",TVN STYLE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3238
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPULS.png",TV PULS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3338
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PULS2.png",PULS 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3280
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/tvcsd.png",TVC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500996
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/biznes24hd.png",BIZNES 24
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500993
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVS.png",TVS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3340
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLONIA1.png",POLONIA 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3346
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/CANALPLUS1.png",CANAL+ 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3333
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALPREMIUM.png",CANAL+ PREMIUM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/182410
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALFAMILY.png",CANAL+ FAMILY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3332
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALFILM.png",CANAL+ FILM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3331
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSERIALE.png",CANAL+ SERIALE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3330
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALOW.png",CANAL+ NOW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/191127
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXEXTRA.png",FILMBOX EXTRA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3327
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXPREMIUM.png",FILMBOX PREMIUM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3326
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXACTION.png",FILMBOX ACTION
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3325
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXFAMILY.png",FILMBOX FAMILY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3324
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXARTHOUSE.png",FILMBOX ARTHOUSE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3323
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CINEMAX.png",CINEMAX
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3322
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CINEMAX2.png",CINEMAX 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3321
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBO.png",HBO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3320
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBO2.png",HBO 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3319
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBO3.png",HBO 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3318
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD205.png",VOD 205
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3317
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD206.png",VOD 206
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3316
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD207.png",VOD 207
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3315
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD208.png",VOD 208
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3314
+#EXTINF:-1 group-title="Ogólne"tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HOMETV.png",Home TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574440
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOPOLSKA.png",KINO POLSKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/68563
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOVELAS.png",NOVELAS+
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/243955
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPPOLONIA.png",TVP POLONIA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/68561
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/FOXCOMEDY.png",FX COMEDY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3311
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDOMO.png",CANAL+ DOMO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3288
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ALEKINO.png",ALE KINO+
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3248
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALKUCHINIA.png",CANAL+ KUCHINIA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/182407
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SCIFI.png",SCIFI
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3305
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOTV.png",KINO TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3229
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVNTURBO.png",DA VINCI
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3290
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/AXN.png",AXN
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3310
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNWHITE.png",AXN WHITE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3308
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNBLACK.png",AXN BLACK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3307
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNSPIN.png",AXN SPIN
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3306
+#EXTINF:-1 group-title="Filmowe",Top Movies Polska
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574443
+#EXTINF:-1 group-title="Filmowe",Dizi
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574442
+#EXTINF:-1 group-title="Filmowe",FilMax
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574441
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/E.png",E! ENTERTAINMENT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3303
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STUDIOMEDTV.png",STUDIOMED TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3157
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/AMC.png",AMC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3296
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOX.png",FX
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3312
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EPICDRAMA.png",EPIC DRAMA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3232
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CBSREALITY.png",CBS REALITY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3233
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/13ULICA.png",13 ULICA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3304
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOVELATV.png",NOVELA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3240
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TELE5.png",TELE 5
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3348
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CBSEUROPA.png",CBS EUROPA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3301
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALKUCHINIA.png",KUCHNIA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3284
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MOTOWIZJATV.png",MOTOWIZJA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3283
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/COMEDYCENTRAL.png",COMEDY CENTRAL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3299
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/COMEDYCENTRALEXTRA.png",COMEDY CENTRAL EXTRA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/280183
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCFIRST.png",BBC FIRST
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3273
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TBNPOLAND.png",TBN POLAND
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/68564
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TNT.png",WARNER
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3231
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUNDANCE.png",SUNDANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3239
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PARAMOUNTCHANNEL.png",PARAMOUNT CHANNEL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3297
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ROMANCETV.png",ROMANCE TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3278
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ACTIVEFAMILY.png",ACTIVE FAMILY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3276
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUPERSTACJA.png",Wydarzenia 24
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3162
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVPABC.png",TVP ABC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3246
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BABYTV.png",BABY TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3270
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/JIMJAM.png",POLSAT JIM JAM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3269
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BOOMERANG.png",BOOMERANG
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3268
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CARTOONNETWORK.png",CARTOON NETWORK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3267
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYXD.png",DISNEY XD
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3266
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYJR.png",DISNEY JUNIOR
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3265
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYCH.png",DISNEY CHANNEL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3264
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NICKJR.png",NICK JR
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3263
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png",NICKELODEON
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3262
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/METRO.png",METRO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500989
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/redcarpettvhd.png",RED CARPET TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500984
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NICKTOONS.png",NICKTOONS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3261
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://103.161.34.240:81/logos/POLSKA/teennickhd.png",TEENNICK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500995
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://103.161.34.240:81/logos/POLSKA/4funkids.png",4FUN KIDS SD
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500983
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TELETOON.png",TELETOON+
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3260
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MINIMINI.png",MINIMINI
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3259
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCCBEEBIES.png",BBC CBEEBIES
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3258
+#EXTINF:-1 group-title="Dzieci" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATGAMES.png",POLSAT GAMES
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3257
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVPOLSKA.png",MTV POLSKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3250
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVLIVE.png",MTV LIVE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3255
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVMUSIC.png",MTV MUSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3249
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/MUSIC2/MTV90S.png",MTV 90S
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500988
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/nutatvsd.png",NUTA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500986
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://103.161.34.240:81/logos/MEXICO/MTV00S.png",MTV 00S
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500985
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVROCKS.png",MTV ROCKS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3252
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POWERTV.png",POWER TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3281
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNGOLDHITS.png",4FUN GOLD HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3205
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNDANCE.png",4FUN DANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3204
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNTV.png",4FUN.TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3226
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOXMUSICTV.png",VOX MUSIC TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3224
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKAROCKTV.png",ESKA ROCK TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3223
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKATVEXTRA.png",ESKA TV EXTRA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3222
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATMUSIC.png",POLSAT MUSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3225
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOPOLSKAMUZYKA.png",KINO POLSKA MUZYKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3251
+#EXTINF:-1 group-title="Muzyczne",Clubbing TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574437
+#EXTINF:-1 group-title="Muzyczne",Dance TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574434
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOPOLOMUSIC.png",DISCO POLO MUSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3206
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKATV.png",ESKA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3159
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ZOOMTV.png",ZOOM TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3241
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOWATV.png",NOWA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3235
+#EXTINF:-1 group-title="Filmowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STOPKLATKATV.png",STOPKLATKA TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3228
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VH1.png",VH1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3254
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLOTV.png",POLO TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3243
+#EXTINF:-1 group-title="Muzyczne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STARSTV.png",STARS.TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3227
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEOPEOPLE.png",NAT GEO PEOPLE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3220
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEO.png",NATIONAL GEO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3198
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEOWILD.png",NAT GEO WILD
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3202
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3210
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERY.png",DISCOVERY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3209
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYLIFE.png",DISCOVERY LIFE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3208
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYHISTORIA.png",DISCOVERY HISTORIA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3207
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCLIFESTYLE.png",BBC LIFESTYLE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3274
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCEARTH.png",BBC EARTH
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3213
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/BBCBRIT.png",BBC BRIT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3275
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATDOKU.png",POLSAT DOKU
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3211
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATEXPLORE.png",POLSAT VIASAT EXPLORE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3203
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATHISTORY.png",POLSAT VIASAT HISTORY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3200
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATNATURE.png",POLSAT VIASAT NATURE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3199
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PLANETE.png",PLANETE+
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3218
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WATERPLANET.png",WATER PLANET
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3201
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ANIMALPLANET.png",ANIMAL PLANET
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3219
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TRAVELCHANNEL.png",TRAVEL CHANNEL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3294
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/ADVENTURE.png",ADVENTURE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3291
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HGTV.png",HGTV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3236
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOKUSTV.png",FOKUS TV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3285
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/tvpdokumenthd.png",TVP DOKUMENT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500997
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDOKUMENT.png",CANAL+ DOKUMENT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/182409
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDISCOVERY.png",CANAL+ DISCOVERY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3328
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOODNETWORK.png",FOOD NETWORK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3289
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CIPOLSAT.png",CI POLSAT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3217
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HISTORY.png",HISTORY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3216
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ID.png",ID
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3215
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WP.png",WP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3277
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DTX.png",DTX
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3287
+#EXTINF:-1 group-title="Ogólne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TLC.png",TLC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3298
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPHISTORIA.png",TVP HISTORIA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3214
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://103.161.34.240:81/logos/POLSKA/historiasd.png",HISTORIA SD
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/500992
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HISTORY2.png",H2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3212
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTEXTRA.png",POLSAT SPORT EXTRA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3195
+#EXTINF:-1 group-title="Dokumentalne" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/CRIMEINVESTIGATION.png",CRIME AND INVESTIGATION
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3197
+#EXTINF:-1 group-title="Ogólne",InUltra U
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574439
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTIGHT.png",POLSAT SPORT FIGHT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3194
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT.png",CANAL+ SPORT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3193
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT2.png",CANAL+ SPORT 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3192
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT3.png",CANAL+ SPORT 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3191
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT4.png",CANAL+ SPORT 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3190
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NSPORT.png",CANAL+ SPORT5
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3189
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SPORTKLUB.png",SPORT KLUB
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3188
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EUROSPORT1.png",EUROSPORT 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3187
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EUROSPORT2.png",EUROSPORT 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3186
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORT.png",POLSAT SPORT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3185
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EXTREMESPORTS.png",EXTREME SPORTS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3184
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTNEWS.png",POLSAT SPORT NEWS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3168
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM1.png",POLSAT SPORT PREM. 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3183
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM2.png",POLSAT SPORT PREM. 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3182
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM3.png",POLSAT SPORT PREM. 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3181
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM3.png",POLSAT SPORT PREM. 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3180
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM5.png",POLSAT SPORT PREM. 5
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3179
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM6.png",POLSAT SPORT PREM. 6
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3178
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS.png",ELEVENSPORT 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3177
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS2.png",ELEVENSPORT 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3176
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS3.png",ELEVENSPORT 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3175
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS4.png",ELEVENSPORT 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3174
+#EXTINF:-1 group-title="Sportowe",1 Liga KANAŁ 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574426
+#EXTINF:-1 group-title="Sportowe",1 Liga KANAŁ 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574425
+#EXTINF:-1 group-title="Sportowe",1 Liga KANAŁ 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574424
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574423
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574422
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574421
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574420
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 5
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574419
+#EXTINF:-1 group-title="Sportowe",2 Liga KANAŁ 6
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/574418
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/GOLFCHANNEL.png",GOLF CHANNEL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3173
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FIGHTKLUB.png",FIGHTKLUB
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3171
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PPVKSWFIGHTS.png",PPV KSW FIGHTS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3170
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PPV 1:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/436531
+#EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPSPORT.png",TVP SPORT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3169
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://178.211.143.40:81/logos/USASPORT/UFCCHANNEL.png",UFC Fight Night
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464127
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PlayLive PPV Platform EVENT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/490070
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PPV HIGH LEAGUE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/490069
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PPV GROMDA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/490068
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",Polsat GO PPV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464133
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://103.161.34.240:81/logos/POLSKA/FameMMA.png",Fame MMA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464132
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://103.161.34.240:81/logos/POLSKA/PrimeMMA.png",Prime MMA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464131
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PlayLive PPV Platform
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464130
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",PPV Stream
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464129
+#EXTINF:-1 group-title="EVENTS VIP" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png",VIPmedia PPV
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/464128
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN24.png",TVN 24
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3166
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN24BIS.png",TVN24 BIS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3165
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATNEWS.png",POLSAT NEWS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3164
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATNEWS2.png",POLSAT NEWS 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3163
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WPOLSCEPL.png",WPOLSCE.PL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3160
+#EXTINF:-1 group-title="Informacyjne" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPINFO.png",TVP INFO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/3158
+#EXTINF:-1 group-title="Radiowe",RADIO ALEX
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864404
+#EXTINF:-1 group-title="Radiowe",RMF POPLISTA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864403
+#EXTINF:-1 group-title="Radiowe",RMF CLUB
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864402
+#EXTINF:-1 group-title="Radiowe",RMF TOP 30 DANCE FAKTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864401
+#EXTINF:-1 group-title="Radiowe",RMF TOP 30 POP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864400
+#EXTINF:-1 group-title="Radiowe",RMF 30 LAT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864399
+#EXTINF:-1 group-title="Radiowe",RMF BEST OF RMF ON
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864398
+#EXTINF:-1 group-title="Radiowe",RMF HOT NEW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864397
+#EXTINF:-1 group-title="Radiowe",RMF DANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864396
+#EXTINF:-1 group-title="Radiowe",RMF FITNESS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864395
+#EXTINF:-1 group-title="Radiowe",RMF POBUDKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864394
+#EXTINF:-1 group-title="Radiowe",RMF DISCO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864393
+#EXTINF:-1 group-title="Radiowe",RMF PARTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864392
+#EXTINF:-1 group-title="Radiowe",RMF 24
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864391
+#EXTINF:-1 group-title="Radiowe",RMF 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864390
+#EXTINF:-1 group-title="Radiowe",RMF FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864389
+#EXTINF:-1 group-title="Radiowe",RMF MAXXX
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864388
+#EXTINF:-1 group-title="Radiowe",RMF MAXXX KROSNO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864387
+#EXTINF:-1 group-title="Radiowe",RMF MAXXX KIELCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864368
+#EXTINF:-1 group-title="Radiowe",RMF 2010 FAKTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864367
+#EXTINF:-1 group-title="Radiowe",RMF FRESH FAKTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864366
+#EXTINF:-1 group-title="Radiowe",RMF HITY WAKACJI
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864365
+#EXTINF:-1 group-title="Radiowe",RMF SŁONECZNE PRZEBOJE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864364
+#EXTINF:-1 group-title="Radiowe",MUZO FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864361
+#EXTINF:-1 group-title="Radiowe",ESKA RZESZÓW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864360
+#EXTINF:-1 group-title="Radiowe",ESKA PRZEMYŚL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864359
+#EXTINF:-1 group-title="Radiowe",ESKA WARSZAWA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864358
+#EXTINF:-1 group-title="Radiowe",ESKA SUMMER HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864357
+#EXTINF:-1 group-title="Radiowe",VOX PARTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864356
+#EXTINF:-1 group-title="Radiowe",ESKA GORĄCA 20
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864355
+#EXTINF:-1 group-title="Radiowe",ESKA IMPREZKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864354
+#EXTINF:-1 group-title="Radiowe",VOX BEST LISTA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864353
+#EXTINF:-1 group-title="Radiowe",ESKA ROCK BALLADS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864352
+#EXTINF:-1 group-title="Radiowe",ESKA ROCK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864351
+#EXTINF:-1 group-title="Radiowe",ESKA ROCK DOBRZE ROKUJE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864350
+#EXTINF:-1 group-title="Radiowe",ESKA ROCK CLASSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864349
+#EXTINF:-1 group-title="Radiowe",VOX FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864348
+#EXTINF:-1 group-title="Radiowe",VOX FM GORZÓW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864347
+#EXTINF:-1 group-title="Radiowe",VOX FM RADOM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864346
+#EXTINF:-1 group-title="Radiowe",VOX FM POZNAŃ
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864345
+#EXTINF:-1 group-title="Radiowe",VOX LATA 90
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864344
+#EXTINF:-1 group-title="Radiowe",VOX DISCO POLO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864343
+#EXTINF:-1 group-title="Radiowe",VOX FM HIT 22
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864342
+#EXTINF:-1 group-title="Radiowe",SUPER NOVA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864341
+#EXTINF:-1 group-title="Radiowe",SUPER NOVA RZESZÓW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864340
+#EXTINF:-1 group-title="Radiowe",SUPER NOWA CLASSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864339
+#EXTINF:-1 group-title="Radiowe",SUPER NOWA DISCO POLO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864338
+#EXTINF:-1 group-title="Radiowe",SUPER NOWA ROCK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864337
+#EXTINF:-1 group-title="Radiowe",SUPER NOWA SUPER 13
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864335
+#EXTINF:-1 group-title="Radiowe",ESKA GO1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864334
+#EXTINF:-1 group-title="Radiowe",ESKA GO 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864333
+#EXTINF:-1 group-title="Radiowe",ESKA GO 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864332
+#EXTINF:-1 group-title="Radiowe",ESKA GO 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864331
+#EXTINF:-1 group-title="Radiowe",RADIO GO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864330
+#EXTINF:-1 group-title="Radiowe",RADIO GRA TORUŃ
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864329
+#EXTINF:-1 group-title="Radiowe",RADIO GRA WROCŁAW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864328
+#EXTINF:-1 group-title="Radiowe",SIZEER FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864327
+#EXTINF:-1 group-title="Radiowe",RADIO PLUS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864326
+#EXTINF:-1 group-title="Radiowe",RADIO PLUS WARSZAWA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864325
+#EXTINF:-1 group-title="Radiowe",WP RADIO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864324
+#EXTINF:-1 group-title="Radiowe",RADIO 357
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864322
+#EXTINF:-1 group-title="Radiowe",RADIO AFERA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864321
+#EXTINF:-1 group-title="Radiowe",RADIO AKADERA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864320
+#EXTINF:-1 group-title="Radiowe",RADIO CCM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864319
+#EXTINF:-1 group-title="Radiowe",RADIO FEST
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864317
+#EXTINF:-1 group-title="Radiowe",RADIO KAMPUS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864315
+#EXTINF:-1 group-title="Radiowe",RADIO KOLOR
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864314
+#EXTINF:-1 group-title="Radiowe",RADIO LUZ
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864313
+#EXTINF:-1 group-title="Radiowe",RADIO NOWY ŚWIAT
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864312
+#EXTINF:-1 group-title="Radiowe",MELORADIO KRAKÓW
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864311
+#EXTINF:-1 group-title="Radiowe",MELORADIO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864310
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO WARSZAWA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864309
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO KATOWICE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864308
+#EXTINF:-1 group-title="Radiowe",CHILLIZET
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864307
+#EXTINF:-1 group-title="Radiowe",RADIO PLUS GDAŃSK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864306
+#EXTINF:-1 group-title="Radiowe",RADIO ZET
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864305
+#EXTINF:-1 group-title="Radiowe",RADIO PRL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864304
+#EXTINF:-1 group-title="Radiowe",ROCKSERWIS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864303
+#EXTINF:-1 group-title="Radiowe",RADIO SPACJA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864302
+#EXTINF:-1 group-title="Radiowe",RADIO NOWONCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864301
+#EXTINF:-1 group-title="Radiowe",RADIO TOK FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864300
+#EXTINF:-1 group-title="Radiowe",ROCK RADIO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864299
+#EXTINF:-1 group-title="Radiowe",ZŁOTE PRZEBOJE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864298
+#EXTINF:-1 group-title="Radiowe",RADIO POGODA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864297
+#EXTINF:-1 group-title="Radiowe",PLANETA FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864296
+#EXTINF:-1 group-title="Radiowe",ZET DANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864295
+#EXTINF:-1 group-title="Radiowe",ZET HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864294
+#EXTINF:-1 group-title="Radiowe",ZET PARTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864293
+#EXTINF:-1 group-title="Radiowe",ZET 2000
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864292
+#EXTINF:-1 group-title="Radiowe",ZET 90
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864291
+#EXTINF:-1 group-title="Radiowe",ZET LATINO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864289
+#EXTINF:-1 group-title="Radiowe",ZET LIVE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864287
+#EXTINF:-1 group-title="Radiowe",OPEN IMPREZKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864286
+#EXTINF:-1 group-title="Radiowe",OPEN HOUSE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864285
+#EXTINF:-1 group-title="Radiowe",OPEN TRANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864284
+#EXTINF:-1 group-title="Radiowe",OPEN KLUB 90
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864283
+#EXTINF:-1 group-title="Radiowe",OPEN DANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864282
+#EXTINF:-1 group-title="Radiowe",OPEN 500 ELECTRONIC HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864281
+#EXTINF:-1 group-title="Radiowe",OPEN 500 PARTY HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864280
+#EXTINF:-1 group-title="Radiowe",OPEN BIEGANIE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864279
+#EXTINF:-1 group-title="Radiowe",OPEN NAUKA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864278
+#EXTINF:-1 group-title="Radiowe",OPEN CARDIO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864277
+#EXTINF:-1 group-title="Radiowe",OPEN DO AUTA CLUB
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864276
+#EXTINF:-1 group-title="Radiowe",OPEN DRUM BASE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864275
+#EXTINF:-1 group-title="Radiowe",OPEN DUBSTEP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864274
+#EXTINF:-1 group-title="Radiowe",OPEN HITY NA GRILLA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864273
+#EXTINF:-1 group-title="Radiowe",OPEN DZIEŃ DOBRY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864272
+#EXTINF:-1 group-title="Radiowe",4 FUN RADIO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864271
+#EXTINF:-1 group-title="Radiowe",OPEN EDM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864270
+#EXTINF:-1 group-title="Radiowe",OPEN FITNESS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864269
+#EXTINF:-1 group-title="Radiowe",OPEN FRESZZZ
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864268
+#EXTINF:-1 group-title="Radiowe",OPEN GIRL POWER
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864267
+#EXTINF:-1 group-title="Radiowe",OPEN GWIAZDY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864266
+#EXTINF:-1 group-title="Radiowe",HOT LISTA OPEN FM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864265
+#EXTINF:-1 group-title="Radiowe",OPEN LEDIS PARTY
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864264
+#EXTINF:-1 group-title="Radiowe",OPEN POLO & DANCE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864263
+#EXTINF:-1 group-title="Radiowe",OPEN TOP 20 IMPREZA
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864262
+#EXTINF:-1 group-title="Radiowe",OPEN TOP 20 POP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864261
+#EXTINF:-1 group-title="Radiowe",OPEN TOP 2022 HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864260
+#EXTINF:-1 group-title="Radiowe",OPEN TRENING
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864259
+#EXTINF:-1 group-title="Radiowe",OPEN WEEKEND HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864258
+#EXTINF:-1 group-title="Radiowe",OPEN 100% HITS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864257
+#EXTINF:-1 group-title="Radiowe",MELORADIO ACOUSTICS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864256
+#EXTINF:-1 group-title="Radiowe",MELORADIO CLASSIC
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864255
+#EXTINF:-1 group-title="Radiowe",MELORADIO DELICATE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864254
+#EXTINF:-1 group-title="Radiowe",MELORADIO GIŻYCKO
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864253
+#EXTINF:-1 group-title="Radiowe",MELORADIO PREMIUM
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864252
+#EXTINF:-1 group-title="Radiowe",CHILLIZET COVERS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864251
+#EXTINF:-1 group-title="Radiowe",CHILLIZET DEEP
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864250
+#EXTINF:-1 group-title="Radiowe",CHILLIZET LADIES
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864249
+#EXTINF:-1 group-title="Radiowe",CHILLIZET SOUL
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864248
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO BALLADS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864246
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO CLASSIC ROCK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864245
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO COVERS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864244
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO GREATEST
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864243
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO HARDCORE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864241
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO LIVE
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864240
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO POLAND
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864239
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO MAKAK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864238
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO UNPLUGGED
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864236
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO WOODSTOCK
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864235
+#EXTINF:-1 group-title="Radiowe",ANTYRADIO X-MASS
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864234
+#EXTINF:-1 group-title="Radiowe",RADIO Z WAMI
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/864233
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 1
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034194
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 2
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034193
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 3
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034192
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 4
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034191
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 5
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034190
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 6
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034189
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 7
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034188
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 9
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034186
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 10
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034185
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 11
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034184
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 12
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034183
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 13
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034182
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 14
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034181
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 15
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034180
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 16
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034179
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 17
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034178
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 18
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034177
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 19
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034176
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 20
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034175
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 22
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034173
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 23
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034172
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 24
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034171
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 25
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034170
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 26
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034169
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 27
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034168
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 28
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034167
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 29
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034166
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 30
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034165
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 31
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034164
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 32
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034163
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 33
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034162
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 34
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034161
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 35
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034160
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 36
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034159
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 37
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034158
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 38
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034157
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 39
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034156
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 40
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034155
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 41
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034154
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 42
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034153
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 43
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034152
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 44
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034151
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 45
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034150
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 46
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034149
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 47
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034148
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 48
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034147
+#EXTINF:-1 group-title="VIAPLAY",VIAPLAY XTRA 49
+http://polskaiptv.ottc.pro:80/JZHX35PGSN/5LW76S3TL4/1034146

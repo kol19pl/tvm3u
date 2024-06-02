@@ -1,0 +1,347 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF: 0 ,TVP 1
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316132&extension=ts
+#EXTINF: 0 ,TVP 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316133&extension=ts
+#EXTINF: 0 ,TV Republika
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316125&extension=ts
+#EXTINF: 0 ,TVP
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316136&extension=ts
+#EXTINF: 0 ,TVP 3
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316134&extension=ts
+#EXTINF: 0 ,TVP ABC
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316135&extension=ts
+#EXTINF: 0 ,TVP Info
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316137&extension=ts
+#EXTINF: 0 ,TVP Kultura
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316138&extension=ts
+#EXTINF: 0 ,TVP Rozrywka
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316140&extension=ts
+#EXTINF: 0 ,TVP SERIALE
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316141&extension=ts
+#EXTINF: 0 ,TVP Sport
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316162&extension=ts
+#EXTINF: 0 ,13 Ulica
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316001&extension=ts
+#EXTINF: 0 ,4FUN Dance
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316002&extension=ts
+#EXTINF: 0 ,4Fun Kids
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316003&extension=ts
+#EXTINF: 0 ,4Fun TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316004&extension=ts
+#EXTINF: 0 ,Adventure
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316005&extension=ts
+#EXTINF: 0 ,Ale KINO+
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316153&extension=ts
+#EXTINF: 0 ,AMC
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316006&extension=ts
+#EXTINF: 0 ,ANIMALANET
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316007&extension=ts
+#EXTINF: 0 ,AXN BLACK
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316008&extension=ts
+#EXTINF: 0 ,AXN
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316009&extension=ts
+#EXTINF: 0 ,AXN Spin
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316010&extension=ts
+#EXTINF: 0 ,AXN White
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316155&extension=ts
+#EXTINF: 0 ,Baby TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316011&extension=ts
+#EXTINF: 0 ,BBC CBeebies
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316023&extension=ts
+#EXTINF: 0 ,BBC Earth
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316012&extension=ts
+#EXTINF: 0 ,BBC First
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316013&extension=ts
+#EXTINF: 0 ,BBC LIFESTYLE
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316152&extension=ts
+#EXTINF: 0 ,Boomerang
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316014&extension=ts
+#EXTINF: 0 ,CANAL+ 1
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316016&extension=ts
+#EXTINF: 0 ,CANAL+ DOMO
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316039&extension=ts
+#EXTINF: 0 ,CANAL+ Family
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316017&extension=ts
+#EXTINF: 0 ,CANAL+ Film
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316018&extension=ts
+#EXTINF: 0 ,Canal+ Kuchnia
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316070&extension=ts
+#EXTINF: 0 ,Canal+ Premium
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316148&extension=ts
+#EXTINF: 0 ,CANAL+ Seriale
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316019&extension=ts
+#EXTINF: 0 ,CANAL+ Sport 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316020&extension=ts
+#EXTINF: 0 ,CANAL+ Sport 3
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316021&extension=ts
+#EXTINF: 0 ,Canal+ Sport 5
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316081&extension=ts
+#EXTINF: 0 ,Cartoon Network
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316022&extension=ts
+#EXTINF: 0 ,CBS Europa
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316024&extension=ts
+#EXTINF: 0 ,CBS Reality
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316025&extension=ts
+#EXTINF: 0 ,CineMax 1
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316026&extension=ts
+#EXTINF: 0 ,Cinemax 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316027&extension=ts
+#EXTINF: 0 ,Comedy Central Extra
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316028&extension=ts
+#EXTINF: 0 ,Comedy Central
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316029&extension=ts
+#EXTINF: 0 ,Crime and Investigation
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316030&extension=ts
+#EXTINF: 0 ,Discovery channel
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316015&extension=ts
+#EXTINF: 0 ,Discovery HISTORIA
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316033&extension=ts
+#EXTINF: 0 ,Discovery Life
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316034&extension=ts
+#EXTINF: 0 ,Discovery Science
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316035&extension=ts
+#EXTINF: 0 ,Disney Channel
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316036&extension=ts
+#EXTINF: 0 ,Disney Junior
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316037&extension=ts
+#EXTINF: 0 ,Disney XD
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316038&extension=ts
+#EXTINF: 0 ,DTX
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316156&extension=ts
+#EXTINF: 0 ,E! Entertainment
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316040&extension=ts
+#EXTINF: 0 ,Eleven Sport 4
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316049&extension=ts
+#EXTINF: 0 ,ELEVEN SPORTS 1
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316157&extension=ts
+#EXTINF: 0 ,ELEVEN SPORTS 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316041&extension=ts
+#EXTINF: 0 ,ELEVEN SPORTS 3
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316042&extension=ts
+#EXTINF: 0 ,ELEVEN SPORTS 4
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316043&extension=ts
+#EXTINF: 0 ,Epic Drama
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316044&extension=ts
+#EXTINF: 0 ,Eska TV Extra
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316046&extension=ts
+#EXTINF: 0 ,ESKA TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316045&extension=ts
+#EXTINF: 0 ,EUROSPORT 1
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316047&extension=ts
+#EXTINF: 0 ,EUROSPORT 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316048&extension=ts
+#EXTINF: 0 ,Extreme Sports
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316050&extension=ts
+#EXTINF: 0 ,FIGHT BOX
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316051&extension=ts
+#EXTINF: 0 ,Filmbox Action
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316052&extension=ts
+#EXTINF: 0 ,Filmbox Extra
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316054&extension=ts
+#EXTINF: 0 ,FilmBox Family
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316055&extension=ts
+#EXTINF: 0 ,Filmbox Premium
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316056&extension=ts
+#EXTINF: 0 ,Fokus TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316057&extension=ts
+#EXTINF: 0 ,Food Network
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316058&extension=ts
+#EXTINF: 0 ,Fox Comedy Polska
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316059&extension=ts
+#EXTINF: 0 ,FOX
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316060&extension=ts
+#EXTINF: 0 ,Golf Channel
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316061&extension=ts
+#EXTINF: 0 ,H2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316062&extension=ts
+#EXTINF: 0 ,HBO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=97221&extension=ts
+#EXTINF: 0 ,HBO 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316063&extension=ts
+#EXTINF: 0 ,HBO 3
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316064&extension=ts
+#EXTINF: 0 ,HGTV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316065&extension=ts
+#EXTINF: 0 ,Investigation Discovery
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316066&extension=ts
+#EXTINF: 0 ,Kino Polska Muzyka
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316068&extension=ts
+#EXTINF: 0 ,Kino Polska
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316067&extension=ts
+#EXTINF: 0 ,Kino TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316069&extension=ts
+#EXTINF: 0 ,Metro
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316071&extension=ts
+#EXTINF: 0 ,MiniMini
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316072&extension=ts
+#EXTINF: 0 ,MOTOWIZJA
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316073&extension=ts
+#EXTINF: 0 ,MTV Polska
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316074&extension=ts
+#EXTINF: 0 ,NAT GEO People
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316076&extension=ts
+#EXTINF: 0 ,NAT GEO
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316075&extension=ts
+#EXTINF: 0 ,NAT GEO Wild
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316158&extension=ts
+#EXTINF: 0 ,Nick Jr Polska
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316077&extension=ts
+#EXTINF: 0 ,NICKTOONS
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316079&extension=ts
+#EXTINF: 0 ,NOWA TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316080&extension=ts
+#EXTINF: 0 ,Nuta TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316082&extension=ts
+#EXTINF: 0 ,Paramount Channel
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316083&extension=ts
+#EXTINF: 0 ,Active Family
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316163&extension=ts
+#EXTINF: 0 ,BBC BRIT
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316150&extension=ts
+#EXTINF: 0 ,Canal+ Now
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=315999&extension=ts
+#EXTINF: 0 ,CANAL+ SPORT
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316149&extension=ts
+#EXTINF: 0 ,CANAL+ SPORT 4
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316164&extension=ts
+#EXTINF: 0 ,Fightklub
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316165&extension=ts
+#EXTINF: 0 ,MTV POLSKA
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316151&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 5
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316169&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 6
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316170&extension=ts
+#EXTINF: 0 ,StudioMed TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316171&extension=ts
+#EXTINF: 0 ,Tele 5
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316172&extension=ts
+#EXTINF: 0 ,TVP Dokument
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=315998&extension=ts
+#EXTINF: 0 ,TVP Polonia
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316139&extension=ts
+#EXTINF: 0 ,ViaPlay 1 ( Bundesliga Matches )
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=315996&extension=ts
+#EXTINF: 0 ,VOD 205
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316173&extension=ts
+#EXTINF: 0 ,VOD 206
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316174&extension=ts
+#EXTINF: 0 ,VOD 207
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316175&extension=ts
+#EXTINF: 0 ,VOD 208
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316176&extension=ts
+#EXTINF: 0 ,Water Planet
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316177&extension=ts
+#EXTINF: 0 ,PLANETE+
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316084&extension=ts
+#EXTINF: 0 ,Polo TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316085&extension=ts
+#EXTINF: 0 ,Polsat 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316154&extension=ts
+#EXTINF: 0 ,Polsat Cafe
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316086&extension=ts
+#EXTINF: 0 ,Polsat Doku
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316087&extension=ts
+#EXTINF: 0 ,Polsat Film
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316089&extension=ts
+#EXTINF: 0 ,Polsat Games
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316090&extension=ts
+#EXTINF: 0 ,Polsat
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316088&extension=ts
+#EXTINF: 0 ,Polsat JimJam
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316091&extension=ts
+#EXTINF: 0 ,Polsat Music
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316092&extension=ts
+#EXTINF: 0 ,POLSAT NEWS 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316093&extension=ts
+#EXTINF: 0 ,Polsat News
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316094&extension=ts
+#EXTINF: 0 ,Polsat Play
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316095&extension=ts
+#EXTINF: 0 ,Polsat Rodzina
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316096&extension=ts
+#EXTINF: 0 ,Polsat Sport Extra
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316097&extension=ts
+#EXTINF: 0 ,Polsat Sport FIGHT
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316099&extension=ts
+#EXTINF: 0 ,POLSAT SPORT NEWS
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316159&extension=ts
+#EXTINF: 0 ,Polsat Sport
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316098&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 1 (VIP)
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316100&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316101&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 3
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316102&extension=ts
+#EXTINF: 0 ,Polsat Sport Premium 4
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316103&extension=ts
+#EXTINF: 0 ,POLSAT Viasat Explore
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316104&extension=ts
+#EXTINF: 0 ,Polsat Viasat History
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316105&extension=ts
+#EXTINF: 0 ,Polsat Viasat Nature
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316106&extension=ts
+#EXTINF: 0 ,POWER TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316107&extension=ts
+#EXTINF: 0 ,Puls 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316123&extension=ts
+#EXTINF: 0 ,Red Carpet TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316160&extension=ts
+#EXTINF: 0 ,Romance TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316108&extension=ts
+#EXTINF: 0 ,SciFi Universal
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316109&extension=ts
+#EXTINF: 0 ,Sport Klub
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316110&extension=ts
+#EXTINF: 0 ,Stars TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316111&extension=ts
+#EXTINF: 0 ,Stopklatka TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316112&extension=ts
+#EXTINF: 0 ,SUNDANCE
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316113&extension=ts
+#EXTINF: 0 ,Super Polsat
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316114&extension=ts
+#EXTINF: 0 ,TeleToon+
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316116&extension=ts
+#EXTINF: 0 ,TLC
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316117&extension=ts
+#EXTINF: 0 ,Trace Urban
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316119&extension=ts
+#EXTINF: 0 ,Travel Channel
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316120&extension=ts
+#EXTINF: 0 ,TTV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316121&extension=ts
+#EXTINF: 0 ,TV Puls
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316124&extension=ts
+#EXTINF: 0 ,TV4
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316122&extension=ts
+#EXTINF: 0 ,TV6
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316161&extension=ts
+#EXTINF: 0 ,TVN 24
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316126&extension=ts
+#EXTINF: 0 ,TVN Fabula
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316127&extension=ts
+#EXTINF: 0 ,TVN
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316128&extension=ts
+#EXTINF: 0 ,TVN Style
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316129&extension=ts
+#EXTINF: 0 ,TVN Turbo
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316130&extension=ts
+#EXTINF: 0 ,TVN24 BIS
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316131&extension=ts
+#EXTINF: 0 ,TVS
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316142&extension=ts
+#EXTINF: 0 ,VOX MUSIC TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316144&extension=ts
+#EXTINF: 0 ,Warner
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316118&extension=ts
+#EXTINF: 0 ,WP
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316145&extension=ts
+#EXTINF: 0 ,wPolsce.pl
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316146&extension=ts
+#EXTINF: 0 ,Wydarzenia 24
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316115&extension=ts
+#EXTINF: 0 ,Zoom TV
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:66:53:0B&stream=316147&extension=ts

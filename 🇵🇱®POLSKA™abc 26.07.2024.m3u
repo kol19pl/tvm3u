@@ -1,0 +1,375 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP 1
+http://abcnew.site:8880/6mmk210061/32192653/33400
+#EXTINF:-1 ,TVP 2
+http://abcnew.site:8880/6mmk210061/32192653/33399
+#EXTINF:-1 ,TVP
+http://abcnew.site:8880/6mmk210061/32192653/33450
+#EXTINF:-1 ,Republika
+http://abcnew.site:8880/6mmk210061/32192653/33407
+#EXTINF:-1 ,Canal+ 1
+http://abcnew.site:8880/6mmk210061/32192653/33516
+#EXTINF:-1 ,Canal+ Film
+http://abcnew.site:8880/6mmk210061/32192653/33515
+#EXTINF:-1 ,Canal+ Family
+http://abcnew.site:8880/6mmk210061/32192653/33517
+#EXTINF:-1 ,Canal+ Seriale
+http://abcnew.site:8880/6mmk210061/32192653/33514
+#EXTINF:-1 ,CANAL+ Premium
+http://abcnew.site:8880/6mmk210061/32192653/33429
+#EXTINF:-1 ,13Ulica
+http://abcnew.site:8880/6mmk210061/32192653/33531
+#EXTINF:-1 ,Ale Kino +
+http://abcnew.site:8880/6mmk210061/32192653/33530
+#EXTINF:-1 ,4Fun TV
+http://abcnew.site:8880/6mmk210061/32192653/33529
+#EXTINF:-1 ,Animal Planet
+http://abcnew.site:8880/6mmk210061/32192653/33528
+#EXTINF:-1 ,TVP Rozrywka
+http://abcnew.site:8880/6mmk210061/32192653/33527
+#EXTINF:-1 ,AXN
+http://abcnew.site:8880/6mmk210061/32192653/33525
+#EXTINF:-1 ,AXN Black
+http://abcnew.site:8880/6mmk210061/32192653/33526
+#EXTINF:-1 ,AXN Spin
+http://abcnew.site:8880/6mmk210061/32192653/33524
+#EXTINF:-1 ,AXN White
+http://abcnew.site:8880/6mmk210061/32192653/33523
+#EXTINF:-1 ,Canal+ Sport
+http://abcnew.site:8880/6mmk210061/32192653/33522
+#EXTINF:-1 ,Canal+ Sport 2
+http://abcnew.site:8880/6mmk210061/32192653/33521
+#EXTINF:-1 ,Canal+ Sport 3
+http://abcnew.site:8880/6mmk210061/32192653/33520
+#EXTINF:-1 ,Canal+ Sport 4
+http://abcnew.site:8880/6mmk210061/32192653/33519
+#EXTINF:-1 ,Boomerang
+http://abcnew.site:8880/6mmk210061/32192653/33518
+#EXTINF:-1 ,Nickelodeon
+http://abcnew.site:8880/6mmk210061/32192653/33513
+#EXTINF:-1 ,BBC Earth
+http://abcnew.site:8880/6mmk210061/32192653/33512
+#EXTINF:-1 ,Cartoon Network
+http://abcnew.site:8880/6mmk210061/32192653/33511
+#EXTINF:-1 ,CBS Europa
+http://abcnew.site:8880/6mmk210061/32192653/33509
+#EXTINF:-1 ,CBS Reality
+http://abcnew.site:8880/6mmk210061/32192653/33508
+#EXTINF:-1 ,Cinemax
+http://abcnew.site:8880/6mmk210061/32192653/33506
+#EXTINF:-1 ,Cinemax 2
+http://abcnew.site:8880/6mmk210061/32192653/33507
+#EXTINF:-1 ,Comedy Central
+http://abcnew.site:8880/6mmk210061/32192653/33505
+#EXTINF:-1 ,Da Vinci Learning
+http://abcnew.site:8880/6mmk210061/32192653/33504
+#EXTINF:-1 ,Disco Polo Music
+http://abcnew.site:8880/6mmk210061/32192653/33503
+#EXTINF:-1 ,Discovery Historia
+http://abcnew.site:8880/6mmk210061/32192653/33501
+#EXTINF:-1 ,Discovery Life
+http://abcnew.site:8880/6mmk210061/32192653/33500
+#EXTINF:-1 ,Discovery Science
+http://abcnew.site:8880/6mmk210061/32192653/33499
+#EXTINF:-1 ,Discovery Turbo Xtra
+http://abcnew.site:8880/6mmk210061/32192653/33498
+#EXTINF:-1 ,Disney Channel
+http://abcnew.site:8880/6mmk210061/32192653/33497
+#EXTINF:-1 ,Da Vinci
+http://abcnew.site:8880/6mmk210061/32192653/33496
+#EXTINF:-1 ,Disney XD
+http://abcnew.site:8880/6mmk210061/32192653/33495
+#EXTINF:-1 ,DOMO+
+http://abcnew.site:8880/6mmk210061/32192653/33494
+#EXTINF:-1 ,E!
+http://abcnew.site:8880/6mmk210061/32192653/33493
+#EXTINF:-1 ,Epic Drama
+http://abcnew.site:8880/6mmk210061/32192653/33492
+#EXTINF:-1 ,CANAL+ KUCHINA
+http://abcnew.site:8880/6mmk210061/32192653/33491
+#EXTINF:-1 ,Eska TV
+http://abcnew.site:8880/6mmk210061/32192653/33490
+#EXTINF:-1 ,Eska ROCK TV
+http://abcnew.site:8880/6mmk210061/32192653/33489
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://abcnew.site:8880/6mmk210061/32192653/33488
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://abcnew.site:8880/6mmk210061/32192653/33487
+#EXTINF:-1 ,Polsat Sport Premium 3
+http://abcnew.site:8880/6mmk210061/32192653/33486
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 4
+http://abcnew.site:8880/6mmk210061/32192653/33485
+#EXTINF:-1 ,Polsat Sport Premium 5
+http://abcnew.site:8880/6mmk210061/32192653/33484
+#EXTINF:-1 ,Polsat Sport Premium 6
+http://abcnew.site:8880/6mmk210061/32192653/33483
+#EXTINF:-1 ,Fightbox
+http://abcnew.site:8880/6mmk210061/32192653/33482
+#EXTINF:-1 ,Filmbox Action
+http://abcnew.site:8880/6mmk210061/32192653/33481
+#EXTINF:-1 ,Filmbox Arthouse
+http://abcnew.site:8880/6mmk210061/32192653/33480
+#EXTINF:-1 ,Filmbox Extra
+http://abcnew.site:8880/6mmk210061/32192653/33479
+#EXTINF:-1 ,Filmbox Family
+http://abcnew.site:8880/6mmk210061/32192653/33478
+#EXTINF:-1 ,Filmbox Premium
+http://abcnew.site:8880/6mmk210061/32192653/33477
+#EXTINF:-1 ,FOKUS TV
+http://abcnew.site:8880/6mmk210061/32192653/33476
+#EXTINF:-1 ,Fox Comedy
+http://abcnew.site:8880/6mmk210061/32192653/33475
+#EXTINF:-1 ,FOX
+http://abcnew.site:8880/6mmk210061/32192653/33474
+#EXTINF:-1 ,Polsat Cafe
+http://abcnew.site:8880/6mmk210061/32192653/33473
+#EXTINF:-1 ,Investigation Discovery
+http://abcnew.site:8880/6mmk210061/32192653/33472
+#EXTINF:-1 ,H2
+http://abcnew.site:8880/6mmk210061/32192653/33471
+#EXTINF:-1 ,HBO
+http://abcnew.site:8880/6mmk210061/32192653/33468
+#EXTINF:-1 ,HBO 2
+http://abcnew.site:8880/6mmk210061/32192653/33470
+#EXTINF:-1 ,HBO 3
+http://abcnew.site:8880/6mmk210061/32192653/33469
+#EXTINF:-1 ,HGTV
+http://abcnew.site:8880/6mmk210061/32192653/33467
+#EXTINF:-1 ,HISTORY CHANNEL
+http://abcnew.site:8880/6mmk210061/32192653/33466
+#EXTINF:-1 ,TV 6
+http://abcnew.site:8880/6mmk210061/32192653/33465
+#EXTINF:-1 ,KINO TV
+http://abcnew.site:8880/6mmk210061/32192653/33464
+#EXTINF:-1 ,KUCHNIA+
+http://abcnew.site:8880/6mmk210061/32192653/33463
+#EXTINF:-1 ,Lifetime
+http://abcnew.site:8880/6mmk210061/32192653/33462
+#EXTINF:-1 ,MiniMini+
+http://abcnew.site:8880/6mmk210061/32192653/33460
+#EXTINF:-1 ,Sundance TV
+http://abcnew.site:8880/6mmk210061/32192653/33459
+#EXTINF:-1 ,STARS TV
+http://abcnew.site:8880/6mmk210061/32192653/33458
+#EXTINF:-1 ,EUROSPORT 1
+http://abcnew.site:8880/6mmk210061/32192653/33457
+#EXTINF:-1 ,EUROSPORT 2
+http://abcnew.site:8880/6mmk210061/32192653/33456
+#EXTINF:-1 ,TVS
+http://abcnew.site:8880/6mmk210061/32192653/33455
+#EXTINF:-1 ,Kino Polska Muzyka
+http://abcnew.site:8880/6mmk210061/32192653/33454
+#EXTINF:-1 ,NAT GEO
+http://abcnew.site:8880/6mmk210061/32192653/33453
+#EXTINF:-1 ,Nat Geo People
+http://abcnew.site:8880/6mmk210061/32192653/33452
+#EXTINF:-1 ,NAT GEO Wild
+http://abcnew.site:8880/6mmk210061/32192653/33451
+#EXTINF:-1 ,Kujawy
+http://abcnew.site:8880/6mmk210061/32192653/33449
+#EXTINF:-1 ,NOWA TV
+http://abcnew.site:8880/6mmk210061/32192653/33448
+#EXTINF:-1 ,NSport Plus
+http://abcnew.site:8880/6mmk210061/32192653/33447
+#EXTINF:-1 ,Paramount Channel
+http://abcnew.site:8880/6mmk210061/32192653/33446
+#EXTINF:-1 ,MTV
+http://abcnew.site:8880/6mmk210061/32192653/33445
+#EXTINF:-1 ,Polo TV
+http://abcnew.site:8880/6mmk210061/32192653/33444
+#EXTINF:-1 ,POLSAT 2
+http://abcnew.site:8880/6mmk210061/32192653/33443
+#EXTINF:-1 ,Polsat Film
+http://abcnew.site:8880/6mmk210061/32192653/33442
+#EXTINF:-1 ,Polsat Doku
+http://abcnew.site:8880/6mmk210061/32192653/33441
+#EXTINF:-1 ,Polsat
+http://abcnew.site:8880/6mmk210061/32192653/33440
+#EXTINF:-1 ,Polsat Jim Jam
+http://abcnew.site:8880/6mmk210061/32192653/33439
+#EXTINF:-1 ,Polsat Music
+http://abcnew.site:8880/6mmk210061/32192653/33438
+#EXTINF:-1 ,Travel Channel
+http://abcnew.site:8880/6mmk210061/32192653/33437
+#EXTINF:-1 ,Polsat News
+http://abcnew.site:8880/6mmk210061/32192653/33436
+#EXTINF:-1 ,Polsat Play
+http://abcnew.site:8880/6mmk210061/32192653/33435
+#EXTINF:-1 ,MOTOWIZJA
+http://abcnew.site:8880/6mmk210061/32192653/33434
+#EXTINF:-1 ,Polsat Sport Extra
+http://abcnew.site:8880/6mmk210061/32192653/33433
+#EXTINF:-1 ,Polsat Sport Fight
+http://abcnew.site:8880/6mmk210061/32192653/33432
+#EXTINF:-1 ,Polsat Sport
+http://abcnew.site:8880/6mmk210061/32192653/33431
+#EXTINF:-1 ,Polsat Sport News
+http://abcnew.site:8880/6mmk210061/32192653/33430
+#EXTINF:-1 ,Canal+ Discovery
+http://abcnew.site:8880/6mmk210061/32192653/33428
+#EXTINF:-1 ,POLSAT Viasat Explore
+http://abcnew.site:8880/6mmk210061/32192653/33427
+#EXTINF:-1 ,Polsat Viasat History
+http://abcnew.site:8880/6mmk210061/32192653/33426
+#EXTINF:-1 ,Polsat Viasat Nature
+http://abcnew.site:8880/6mmk210061/32192653/33425
+#EXTINF:-1 ,POWER TV
+http://abcnew.site:8880/6mmk210061/32192653/33424
+#EXTINF:-1 ,PULS 2
+http://abcnew.site:8880/6mmk210061/32192653/33423
+#EXTINF:-1 ,Sci-Fi
+http://abcnew.site:8880/6mmk210061/32192653/33422
+#EXTINF:-1 ,Stop klatka TV
+http://abcnew.site:8880/6mmk210061/32192653/33419
+#EXTINF:-1 ,TVN 24 Bis
+http://abcnew.site:8880/6mmk210061/32192653/33418
+#EXTINF:-1 ,Super Polsat
+http://abcnew.site:8880/6mmk210061/32192653/33417
+#EXTINF:-1 ,TeleToon+
+http://abcnew.site:8880/6mmk210061/32192653/33416
+#EXTINF:-1 ,TLC
+http://abcnew.site:8880/6mmk210061/32192653/33415
+#EXTINF:-1 ,TNT
+http://abcnew.site:8880/6mmk210061/32192653/33414
+#EXTINF:-1 ,Polsat Games
+http://abcnew.site:8880/6mmk210061/32192653/33412
+#EXTINF:-1 ,TTV
+http://abcnew.site:8880/6mmk210061/32192653/33411
+#EXTINF:-1 ,E! Entertainment
+http://abcnew.site:8880/6mmk210061/32192653/33410
+#EXTINF:-1 ,TV6
+http://abcnew.site:8880/6mmk210061/32192653/33409
+#EXTINF:-1 ,TV Puls
+http://abcnew.site:8880/6mmk210061/32192653/33408
+#EXTINF:-1 ,TVN 7
+http://abcnew.site:8880/6mmk210061/32192653/33406
+#EXTINF:-1 ,TVN 24
+http://abcnew.site:8880/6mmk210061/32192653/33405
+#EXTINF:-1 ,TVN Fabula
+http://abcnew.site:8880/6mmk210061/32192653/33404
+#EXTINF:-1 ,TVN
+http://abcnew.site:8880/6mmk210061/32192653/33403
+#EXTINF:-1 ,TVN Style
+http://abcnew.site:8880/6mmk210061/32192653/33402
+#EXTINF:-1 ,TVN Turbo
+http://abcnew.site:8880/6mmk210061/32192653/33401
+#EXTINF:-1 ,TVP 3
+http://abcnew.site:8880/6mmk210061/32192653/33398
+#EXTINF:-1 ,TVP abc
+http://abcnew.site:8880/6mmk210061/32192653/33397
+#EXTINF:-1 ,TVP Historiy
+http://abcnew.site:8880/6mmk210061/32192653/33396
+#EXTINF:-1 ,TVP Info
+http://abcnew.site:8880/6mmk210061/32192653/33395
+#EXTINF:-1 ,TVP Kultura
+http://abcnew.site:8880/6mmk210061/32192653/33394
+#EXTINF:-1 ,TVP Polonia
+http://abcnew.site:8880/6mmk210061/32192653/33393
+#EXTINF:-1 ,TVP Rozrywka
+http://abcnew.site:8880/6mmk210061/32192653/33392
+#EXTINF:-1 ,TVP SERIALE
+http://abcnew.site:8880/6mmk210061/32192653/33391
+#EXTINF:-1 ,TVP Sport
+http://abcnew.site:8880/6mmk210061/32192653/33390
+#EXTINF:-1 ,Nicktoons
+http://abcnew.site:8880/6mmk210061/32192653/33389
+#EXTINF:-1 ,Baby TV
+http://abcnew.site:8880/6mmk210061/32192653/33387
+#EXTINF:-1 ,BBC CBeebies
+http://abcnew.site:8880/6mmk210061/32192653/33386
+#EXTINF:-1 ,BBC Lifestyle
+http://abcnew.site:8880/6mmk210061/32192653/33385
+#EXTINF:-1 ,ZOOM TV
+http://abcnew.site:8880/6mmk210061/32192653/33384
+#EXTINF:-1 ,4Fun Dance
+http://abcnew.site:8880/6mmk210061/32192653/33382
+#EXTINF:-1 ,4Fun Gold Hits
+http://abcnew.site:8880/6mmk210061/32192653/33381
+#EXTINF:-1 ,BBC Brit
+http://abcnew.site:8880/6mmk210061/32192653/33380
+#EXTINF:-1 ,Adventure
+http://abcnew.site:8880/6mmk210061/32192653/33379
+#EXTINF:-1 ,VOX MUSIC TV
+http://abcnew.site:8880/6mmk210061/32192653/33378
+#EXTINF:-1 ,AMC
+http://abcnew.site:8880/6mmk210061/32192653/33377
+#EXTINF:-1 ,Active Family
+http://abcnew.site:8880/6mmk210061/32192653/33376
+#EXTINF:-1 ,WYDARZENIA 24
+http://abcnew.site:8880/6mmk210061/32192653/33375
+#EXTINF:-1 ,Food Network
+http://abcnew.site:8880/6mmk210061/32192653/33374
+#EXTINF:-1 ,Cartoon Network
+http://abcnew.site:8880/6mmk210061/32192653/33373
+#EXTINF:-1 ,Red Carpet
+http://abcnew.site:8880/6mmk210061/32192653/33369
+#EXTINF:-1 ,Comedy Central Family
+http://abcnew.site:8880/6mmk210061/32192653/33368
+#EXTINF:-1 ,TV Trwam
+http://abcnew.site:8880/6mmk210061/32192653/33366
+#EXTINF:-1 ,Discovery Channel
+http://abcnew.site:8880/6mmk210061/32192653/33365
+#EXTINF:-1 ,Discovery Life
+http://abcnew.site:8880/6mmk210061/32192653/33364
+#EXTINF:-1 ,Disney Junior
+http://abcnew.site:8880/6mmk210061/32192653/33363
+#EXTINF:-1 ,NUTA TV
+http://abcnew.site:8880/6mmk210061/32192653/33361
+#EXTINF:-1 ,Eleven Sports 1
+http://abcnew.site:8880/6mmk210061/32192653/33360
+#EXTINF:-1 ,Eleven Sports 2
+http://abcnew.site:8880/6mmk210061/32192653/33359
+#EXTINF:-1 ,Eleven Sports 3
+http://abcnew.site:8880/6mmk210061/32192653/33358
+#EXTINF:-1 ,Eleven Sports 4
+http://abcnew.site:8880/6mmk210061/32192653/33357
+#EXTINF:-1 ,ESKA TV Extra
+http://abcnew.site:8880/6mmk210061/32192653/33356
+#EXTINF:-1 ,FOKUS TV
+http://abcnew.site:8880/6mmk210061/32192653/33354
+#EXTINF:-1 ,FOX
+http://abcnew.site:8880/6mmk210061/32192653/33353
+#EXTINF:-1 ,Golf Channel
+http://abcnew.site:8880/6mmk210061/32192653/33352
+#EXTINF:-1 ,Crime+ Investigation
+http://abcnew.site:8880/6mmk210061/32192653/33351
+#EXTINF:-1 ,BBC FIRST
+http://abcnew.site:8880/6mmk210061/32192653/33350
+#EXTINF:-1 ,Kino Polska
+http://abcnew.site:8880/6mmk210061/32192653/33349
+#EXTINF:-1 ,TV 4
+http://abcnew.site:8880/6mmk210061/32192653/33348
+#EXTINF:-1 ,SciFi Universal
+http://abcnew.site:8880/6mmk210061/32192653/33347
+#EXTINF:-1 ,TVP 3 Wrocław
+http://abcnew.site:8880/6mmk210061/32192653/33346
+#EXTINF:-1 ,Metro
+http://abcnew.site:8880/6mmk210061/32192653/33345
+#EXTINF:-1 ,MTV Dance
+http://abcnew.site:8880/6mmk210061/32192653/33343
+#EXTINF:-1 ,MTV Polska
+http://abcnew.site:8880/6mmk210061/32192653/33342
+#EXTINF:-1 ,Nat Geo People
+http://abcnew.site:8880/6mmk210061/32192653/33341
+#EXTINF:-1 ,KSW Fight  PPV
+http://abcnew.site:8880/6mmk210061/32192653/33340
+#EXTINF:-1 ,Paramount Channel
+http://abcnew.site:8880/6mmk210061/32192653/33339
+#EXTINF:-1 ,Planete+
+http://abcnew.site:8880/6mmk210061/32192653/33338
+#EXTINF:-1 ,KuchniaPlus
+http://abcnew.site:8880/6mmk210061/32192653/33336
+#EXTINF:-1 ,Polsat Romans
+http://abcnew.site:8880/6mmk210061/32192653/33334
+#EXTINF:-1 ,Polsat Sport Fight
+http://abcnew.site:8880/6mmk210061/32192653/33333
+#EXTINF:-1 ,Polsat Viasat Explore
+http://abcnew.site:8880/6mmk210061/32192653/33332
+#EXTINF:-1 ,Polsat Viasat History
+http://abcnew.site:8880/6mmk210061/32192653/33331
+#EXTINF:-1 ,Polsat Viasat Nature
+http://abcnew.site:8880/6mmk210061/32192653/33330
+#EXTINF:-1 ,Power TV
+http://abcnew.site:8880/6mmk210061/32192653/33329
+#EXTINF:-1 ,Nick JR
+http://abcnew.site:8880/6mmk210061/32192653/33328
